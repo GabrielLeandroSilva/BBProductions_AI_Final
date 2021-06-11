@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpiderHead
+  m_Shader: {fileID: -6465566751694194690, guid: 0416a7cc9bdd88a45875df3a9f05fb8a,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_25FC3137:
+        m_Texture: {fileID: 2800000, guid: 0e67c2464f7e159408ccc4c4c923cc16, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_9BA57AD2:
+        m_Texture: {fileID: 2800000, guid: 1274ce7ae5f181543b599f305b8e722d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_DA13CBDD:
+        m_Texture: {fileID: 2800000, guid: a12b1d8cf536a8d4ca0617b9df81f0d1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1085C890: 0.005
+    - Vector1_243386A9: 3.28
+    - Vector1_5EB614E7: 999
+    - Vector1_793705B8: 0.13
+    - Vector1_7F38DECB: 0.32
+    - Vector1_A3B8E23C: 0
+    - Vector1_D300BD8B: 999.04
+    - Vector1_F28EE42: 5.64
+    - Vector1_FC05A008: 1
+    m_Colors:
+    - Color_297DB4A0: {r: 0.0283464, g: 0.46226418, b: 0.100952424, a: 0}
+    - Color_4143838: {r: 0.63605154, g: 0.63605154, b: 0.63605154, a: 0}
+    - Color_58793897: {r: 1, g: 1, b: 1, a: 0}

@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: 1cc49d38de4a8034f8726977475d77bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1561123964866616927
+    second: UIStrongTgder_0
+  - first:
+      213: 585635553344793140
+    second: UIStrongTgder_1
+  - first:
+      213: 9173414601913587653
+    second: UIStrongTgder_2
+  - first:
+      213: -2632867076653923210
+    second: UIStrongTgder_3
+  - first:
+      213: -8147661709282706122
+    second: UIStrongTgder_4
+  - first:
+      213: 6817262275383918736
+    second: UIStrongTgder_5
+  - first:
+      213: -7952466112924727818
+    second: UIStrongTgder_6
+  - first:
+      213: -1548289064435006476
+    second: UIStrongTgder_7
+  - first:
+      213: 719558574901716715
+    second: UIStrongTgder_8
+  - first:
+      213: 5885353888246814146
+    second: UIStrongTgder_9
+  - first:
+      213: 8049192710225834820
+    second: UIStrongTgder_10
+  - first:
+      213: 502331141778471171
+    second: UIStrongTgder_11
+  - first:
+      213: 4895611582199240525
+    second: UIStrongTgder_12
+  - first:
+      213: -6337532804927053296
+    second: UIStrongTgder_13
+  - first:
+      213: 2668259582654129408
+    second: UIStrongTgder_14
+  - first:
+      213: -8897212780572079909
+    second: UIStrongTgder_15
+  - first:
+      213: 2134984718525944942
+    second: UIStrongTgder_16
+  - first:
+      213: 1626719265628794903
+    second: UIStrongTgder_0
+  - first:
+      213: 6861361147383040580
+    second: UIStrongTgder_1
+  - first:
+      213: 1748682325149419338
+    second: UIStrongTgder_2
+  - first:
+      213: -1706029912352515042
+    second: UIStrongTgder_3
+  - first:
+      213: -7766683425950796853
+    second: UIStrongTgder_4
+  - first:
+      213: 2093279888185936115
+    second: UIStrongTgder_5
+  - first:
+      213: -8153846502336237884
+    second: UIStrongTgder_6
+  - first:
+      213: 5880884293486331025
+    second: UIStrongTgder_7
+  - first:
+      213: -3667717560515362362
+    second: UIStrongTgder_8
+  - first:
+      213: -7916778256439153459
+    second: UIStrongTgder_9
+  - first:
+      213: 6042595227942637501
+    second: UIStrongTgder_10
+  - first:
+      213: -4726259274750151668
+    second: UIStrongTgder_11
+  - first:
+      213: 667372805553834504
+    second: UIStrongTgder_12
+  - first:
+      213: 4747547129460406295
+    second: UIStrongTgder_13
+  - first:
+      213: 2338157154970247542
+    second: UIStrongTgder_14
+  - first:
+      213: 7880161341311028862
+    second: UIStrongTgder_15
+  - first:
+      213: -6974267469484671668
+    second: UIStrongTgder_16
+  - first:
+      213: 2827500669318895914
+    second: UIStrongTgder_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIStrongTgder_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 808
+        width: 917
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710b619ad84439610800000000000000
+      internalID: 1626719265628794903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_1
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 777
+        width: 882
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ace694c93783f50800000000000000
+      internalID: 6861361147383040580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 641
+        width: 425
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3f941e292373490800000000000000
+      internalID: -7766683425950796853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 660
+        width: 1108
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8cac6b7f2dc0d10800000000000000
+      internalID: 2093279888185936115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_6
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 441
+        width: 321
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 99, y: 104, z: 101, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceef2b9ec7b7de80800000000000000
+      internalID: -8153846502336237884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 406
+        width: 485
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944d6e4b191d9150800000000000000
+      internalID: 5880884293486331025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_8
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 406
+        width: 485
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c10505af46a91dc0800000000000000
+      internalID: -3667717560515362362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_9
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 430
+        width: 193
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc6863ee14f12290800000000000000
+      internalID: -7916778256439153459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_10
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 437
+        width: 191
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfcdf2485c9bd350800000000000000
+      internalID: 6042595227942637501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 276
+        width: 1061
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c043f1cfa34f86eb0800000000000000
+      internalID: -4726259274750151668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_12
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 247
+        width: 205
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80acacfd70cf24900800000000000000
+      internalID: 667372805553834504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_13
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 258
+        width: 177
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718b9ede5fca2e140800000000000000
+      internalID: 4747547129460406295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_14
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 245
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6712a0b5b8dc27020800000000000000
+      internalID: 2338157154970247542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 44
+        width: 636
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e0c913df4fb5d60800000000000000
+      internalID: 7880161341311028862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_16
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 44
+        width: 636
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dbdc010bc663f90800000000000000
+      internalID: -6974267469484671668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIStrongTgder_17
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 64
+        width: 485
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a299ee4c0ec4d3720800000000000000
+      internalID: 2827500669318895914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 38eb296226b0d0743b6954c2e301ce6d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpiderLegs
+  m_Shader: {fileID: -6465566751694194690, guid: 053df05a035db9e4fb2384253d6d31ea,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_858B4297:
+        m_Texture: {fileID: 2800000, guid: 1274ce7ae5f181543b599f305b8e722d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_DD3E55F3:
+        m_Texture: {fileID: 2800000, guid: defb80c318d918f4fa61a4d2ed6836a4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_E8820118:
+        m_Texture: {fileID: 2800000, guid: af7962fe1b58da944ac153791404e75d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F037013E:
+        m_Texture: {fileID: 2800000, guid: a12b1d8cf536a8d4ca0617b9df81f0d1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4ABA57E3: 0.57
+    - Vector1_5DE50C01: 3.36
+    - Vector1_5E648E4D: 6.44
+    - Vector1_8AA0D3FC: -0.01
+    - Vector1_9DBB4658: 1
+    - Vector1_C6943724: 3.61
+    m_Colors:
+    - Color_D135A009: {r: 0.0627451, g: 0.0627451, b: 0.0627451, a: 0}
+    - Color_F324FA8C: {r: 1, g: 1, b: 1, a: 0}
